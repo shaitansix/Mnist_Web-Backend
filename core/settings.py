@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 
-load_dotenv('.env.dev')
+load_dotenv('.env')
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
