@@ -62,6 +62,7 @@ El frontend gestiona el estado de configuración, resultados de entrenamiento e 
 
 ---
 
+<!--
 ## Opciones de Despliegue
 
 ### Usando Docker
@@ -143,3 +144,4 @@ python manage.py runserver
 ```bash
 http://localhost:8000/admin/
 ```
+-->
